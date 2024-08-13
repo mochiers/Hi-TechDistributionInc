@@ -1,1 +1,1 @@
-MockUp Enterprise software for distribution, using C#.
+MockUp Enterprise software for distribution, using C# and oop.
