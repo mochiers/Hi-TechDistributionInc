@@ -1,0 +1,58 @@
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe.config
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.pdb
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.AssemblyReference.cache
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.EmployeeMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.Properties.Resources.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.GenerateResource.cache
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CoreCompileInputs.cache
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.exe
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.pdb
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.LoginForm.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.CustomerMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.dll
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.xml
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.InventoryMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.OrderForm.resources
+C:\Users\darry\OneDrive\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CopyComplete
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe.config
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.pdb
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.dll
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.xml
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.AssemblyReference.cache
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.CustomerMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.EmployeeMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.InventoryMaintenance.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.LoginForm.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.OrderForm.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.Properties.Resources.resources
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.GenerateResource.cache
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CoreCompileInputs.cache
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CopyComplete
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.exe
+C:\Users\darry\OneDrive\Desktop\School\Semester 3\Multi-Tier Application\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.pdb
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe.config
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.exe
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\Hi-TechDistributionInc.pdb
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.dll
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.xml
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.AssemblyReference.cache
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.CustomerMaintenance.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.EmployeeMaintenance.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.InventoryMaintenance.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.LoginForm.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.GUI.OrderForm.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi_TechDistributionInc.Properties.Resources.resources
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.GenerateResource.cache
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.csproj.CopyComplete
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.exe
+C:\Users\Barbara\Desktop\Final Project C#\Hi-TechDistributionInc\obj\Debug\Hi-TechDistributionInc.pdb
